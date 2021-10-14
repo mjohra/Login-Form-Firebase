@@ -1,4 +1,4 @@
-#Email Password Authentication,Login Form
+# Email Password Authentication,Login Form
 
 Live site: [https://login-firebase-react.netlify.app/](https://login-firebase-react.netlify.app/).
 
